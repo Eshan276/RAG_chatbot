@@ -1,0 +1,9 @@
+claude all disc:https://claude.ai/chat/ea12705a-5c10-4a9b-baed-4e17d167dc47
+advanced rag: https://www.falkordb.com/blog/advanced-rag/
+graph rag for free(without openai):https://www.youtube.com/watch?v=y8EjUJXO7Mc
+graph rag:https://www.falkordb.com/blog/what-is-graphrag/
+graph rag: medium(https://towardsdatascience.com/how-to-implement-graph-rag-using-knowledge-graphs-and-vector-databases-60bb69a22759)
+graphrag MS:https://microsoft.github.io/graphrag/posts/get_started/
+neo4j,opencypher can be used for db
+GRAG LANGCHAIN- https://blog.langchain.dev/enhancing-rag-based-applications-accuracy-by-constructing-and-leveraging-knowledge-graphs/
+graphrag sdk: falkerdb sdk
